@@ -4,7 +4,7 @@ To run
 ```bash
 docker-compose up --build
 ```
-
+![alt text](image-1.png)
 ![alt text](image.png)
 
 
